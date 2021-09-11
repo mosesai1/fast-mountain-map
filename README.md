@@ -1,2 +1,2 @@
 # outdoorcaptain
-Repository to track issues and feature requests for the Outdoor Map mobile app
+Repository to track issues and feature requests for the OutdoorCaptain mobile app
